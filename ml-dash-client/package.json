@@ -19,7 +19,7 @@
     "immutable": "^4.0.0-rc.12",
     "is-glob": "^4.0.1",
     "json5": "^2.1.0",
-    "jsonwebtoken": "^8.5.0",
+    "jsonwebtoken": "^9.0.0",
     "measure-text": "latest",
     "minimatch": "^3.0.4",
     "polished": "^3.0.0",
